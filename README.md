@@ -1,1 +1,1 @@
-# richeritage
+# richeritage-git
